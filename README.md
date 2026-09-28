@@ -57,3 +57,7 @@ Projet GET 409 — Atelier IA | Swiss UMEF University, Campus de Dakar | 2025-20
 - [x] Énoncé HMW
 - [x] Carte d'empathie
 - [ ] Espace Dify d'équipe (mise en attente jusqu'à la Séance 3)
+
+## HMW définitif — Séance 2
+
+Comment pourrions-nous permettre aux gestionnaires de parc informatique d'une organisation multi-sites au Sénégal de suivre, en un seul endroit, l'état, la localisation et l'historique de chaque poste, afin d'anticiper les pannes et de justifier objectivement les demandes de renouvellement de matériel ?
